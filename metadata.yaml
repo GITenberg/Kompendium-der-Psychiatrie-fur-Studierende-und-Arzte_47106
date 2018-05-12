@@ -1,4 +1,8 @@
 _repo: Kompendium-der-Psychiatrie-fur-Studierende-und-Arzte_47106
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47106-h/images/cover.jpg
 creator:
   author:
     agent_name: Dornblüth, Otto
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44133
     wikipedia: http://de.wikipedia.org/wiki/Otto_Dornbl%C3%BCth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47106#Kompendium-der-Psychiatrie-fur-Studierende-und-Arzte
 gutenberg_issued: '2014-10-13'
 gutenberg_type: Text
 identifiers:
